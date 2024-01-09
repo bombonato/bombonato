@@ -1,8 +1,8 @@
 ### Hi tech fellows 👋
 
-- 🔭 I’m currently working on my HomeLab, VPS, AI's skills improvement and Personal Productivity
-- 🌱 I’m currently learning about AI in Prompt Engeniering, ChatGPT, LLM's; DevOps in Ansible, Terraform; HomeLab with Hypervisor, ProxMox, Hardware Passthrough, Server's Applications and Services; Network's in Rounting, VLAN, DNS, Reverse Proxy; Software Archictecture and other tech stuff.
-- 💬 Ask me about Kubernetes, Docker, Linux, ProxMox, Homelab, Network, AI, DevOps, Ansible, Terraform, Flutter, and cool tech stuff.
+- 🔭 I'm currently working on my HomeLab, VPS, improving my AI skills, and personal productivity.
+- 🌱 I'm currently learning about AI in Prompt Engineering, ChatGPT, LLMs; DevOps with Ansible, Terraform; HomeLab with Hypervisor, Proxmox, Hardware Passthrough, Server Applications and Services; Networking in Routing, VLAN, DNS, Reverse Proxy; Software Architecture and other tech stuff.
+- 💬 Ask me about Kubernetes, Docker, Linux, Proxmox, HomeLab, Networking, AI, DevOps, Ansible, Terraform, Flutter, and cool tech stuff.
 
 💡 A Quote:
 ---
